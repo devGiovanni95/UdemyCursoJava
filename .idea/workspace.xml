@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="21d0fefa-e36b-4915-b10b-b6abd88de2ca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExemploDeOrganização/administracao/pesooas/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fudamentos/Inferencia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fudamentos/NotacaoPonto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fudamentos/PrimeiroPrograma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fudamentos/PrimitivoVsObjeto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fudamentos/Temperatura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fudamentos/TipoString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fudamentos/TiposPrimitivos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fudamentos/Wrapper.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="package-info" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1o5Z3jHmgnG6uKu8FojCcoqRsAG" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21d0fefa-e36b-4915-b10b-b6abd88de2ca" name="Default Changelist" comment="" />
+      <created>1612578242670</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612578242670</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
