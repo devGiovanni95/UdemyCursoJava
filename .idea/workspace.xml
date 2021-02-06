@@ -2,16 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21d0fefa-e36b-4915-b10b-b6abd88de2ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExemploDeOrganização/administracao/pesooas/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fudamentos/Inferencia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fudamentos/NotacaoPonto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fudamentos/PrimeiroPrograma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fudamentos/PrimitivoVsObjeto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fudamentos/Temperatura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fudamentos/TipoString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fudamentos/TiposPrimitivos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fudamentos/Wrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafioFaculdade/adiministracao/Agenda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafioFaculdade/adiministracao/Matricula.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafioFaculdade/educacional/Disciplina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafioFaculdade/educacional/Prova.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafioFaculdade/pessoa/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafioFaculdade/pessoa/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafioFaculdade/pessoa/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exemploDeOrganizacao/administracao/Agenda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exemploDeOrganizacao/pessoa/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exemploDeOrganizacao/pessoa/Medico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exemploDeOrganizacao/pessoa/Paciente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exemploDeOrganizacao/tela/TelaAgendamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exemploDeOrganizacao/tela/TelaPrincipal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExemploDeOrganização/administracao/pesooas/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fudamentos/AreaCircunferencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fudamentos/AreaCircunferencia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fudamentos/PrimeiroPrograma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fudamentos/PrimeiroPrograma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fudamentos/Wrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fudamentos/Wrapper.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +29,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="package-info" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -41,6 +49,36 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/ExemploDeOrganização/pessoa" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Documents\GitHub\UdemyCursoJava\src\ExemploDeOrganização\pessoa" />
+      <recent name="C:\Users\user\Documents\GitHub\UdemyCursoJava\src\exemploDeOrganização\pessoa" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="desafioFaculdade" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="AreaCircunferencia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fudamentos.AreaCircunferencia" />
+      <module name="UdemyCursoJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fudamentos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AreaCircunferencia" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -63,5 +101,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
