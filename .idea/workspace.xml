@@ -2,24 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21d0fefa-e36b-4915-b10b-b6abd88de2ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/desafioFaculdade/adiministracao/Agenda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/desafioFaculdade/adiministracao/Matricula.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/desafioFaculdade/educacional/Disciplina.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/desafioFaculdade/educacional/Prova.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/desafioFaculdade/pessoa/Aluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/desafioFaculdade/pessoa/Funcionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/desafioFaculdade/pessoa/Professor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exemploDeOrganizacao/administracao/Agenda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exemploDeOrganizacao/pessoa/Funcionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exemploDeOrganizacao/pessoa/Medico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exemploDeOrganizacao/pessoa/Paciente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exemploDeOrganizacao/tela/TelaAgendamento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exemploDeOrganizacao/tela/TelaPrincipal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExemploDeOrganização/administracao/pesooas/package-info.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/fudamentos/AreaCircunferencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fudamentos/AreaCircunferencia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fudamentos/PrimeiroPrograma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fudamentos/PrimeiroPrograma.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fudamentos/Wrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fudamentos/Wrapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fudamentos/Inferencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fudamentos/Inferencia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fudamentos/Temperatura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fudamentos/Temperatura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fudamentos/TiposPrimitivos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fudamentos/TiposPrimitivos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +36,10 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/ExemploDeOrganização/pessoa" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -60,7 +50,7 @@
       <recent name="desafioFaculdade" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Inferencia">
     <configuration name="AreaCircunferencia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fudamentos.AreaCircunferencia" />
       <module name="UdemyCursoJava" />
@@ -74,8 +64,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Inferencia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fudamentos.Inferencia" />
+      <module name="UdemyCursoJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fudamentos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Temperatura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fudamentos.Temperatura" />
+      <module name="UdemyCursoJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fudamentos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Inferencia" />
+        <item itemvalue="Application.Temperatura" />
         <item itemvalue="Application.AreaCircunferencia" />
       </list>
     </recent_temporary>
@@ -88,8 +117,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612578242670</updated>
+      <workItem from="1612627831432" duration="3747000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
