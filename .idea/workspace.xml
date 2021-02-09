@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="21d0fefa-e36b-4915-b10b-b6abd88de2ca" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fudamentos/Import.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fudamentos/Import.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fudamentos/NotacaoPonto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fudamentos/NotacaoPonto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fudamentos/Console.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fudamentos/Console.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/fudamentos/TipoString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fudamentos/TipoString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fudamentos/TiposPrimitivos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fudamentos/TiposPrimitivos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,9 +48,9 @@
       <recent name="desafioFaculdade" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TipoString">
-    <configuration name="Import" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fudamentos.Import" />
+  <component name="RunManager" selected="Application.Console">
+    <configuration name="Console" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fudamentos.Console" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
@@ -64,8 +62,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Inferencia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fudamentos.Inferencia" />
+    <configuration name="Import" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fudamentos.Import" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
@@ -116,26 +114,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Console" />
         <item itemvalue="Application.TipoString" />
         <item itemvalue="Application.Import" />
         <item itemvalue="Application.NotacaoPonto" />
         <item itemvalue="Application.TiposPrimitivos" />
-        <item itemvalue="Application.Inferencia" />
       </list>
     </recent_temporary>
   </component>
@@ -149,6 +145,7 @@
       <updated>1612578242670</updated>
       <workItem from="1612627831432" duration="4746000" />
       <workItem from="1612724284681" duration="4662000" />
+      <workItem from="1612817507154" duration="3784000" />
     </task>
     <servers />
   </component>
