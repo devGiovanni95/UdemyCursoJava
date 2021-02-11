@@ -6,16 +6,19 @@ public class Wrapper {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
         //byte
-        byte b = 100;
+        Byte b = 100;
         Short s = 1000;
 
-        //Integer.parseInt(entada.nextLine());
-        Integer i = 10;
+        // Integer i = Integer.parseInt("1000"); int ===transforma uma string em numero inteiro
+        // Integer i = Integer.parseInt(entrada.next());
+        Integer i = 10000;  //int
         Long l = 100000L;
 
-      //  System.out.println(b.byteValue());
-        System.out.println(s.toString());
+        System.out.println(b.byteValue()); //pega o valor antigo
+        System.out.println(s.toString());   // transforma como uma string
+        System.out.println(s.toString());   // transforma como uma string
         System.out.println(i * 3);
+        System.out.println(l / 3);
 
         entrada.close();
 

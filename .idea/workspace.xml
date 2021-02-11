@@ -4,7 +4,8 @@
     <list default="true" id="21d0fefa-e36b-4915-b10b-b6abd88de2ca" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/fudamentos/Console.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fudamentos/Console.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fudamentos/TipoString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fudamentos/TipoString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fudamentos/PrimitivoVsObjeto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fudamentos/PrimitivoVsObjeto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fudamentos/Wrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fudamentos/Wrapper.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +49,7 @@
       <recent name="desafioFaculdade" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Console">
+  <component name="RunManager" selected="Application.Wrapper">
     <configuration name="Console" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fudamentos.Console" />
       <module name="UdemyCursoJava" />
@@ -75,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NotacaoPonto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fudamentos.NotacaoPonto" />
+    <configuration name="PrimitivoVsObjeto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fudamentos.PrimitivoVsObjeto" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
@@ -101,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TiposPrimitivos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fudamentos.TiposPrimitivos" />
+    <configuration name="Wrapper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fudamentos.Wrapper" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
@@ -114,24 +115,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Wrapper" />
+        <item itemvalue="Application.PrimitivoVsObjeto" />
         <item itemvalue="Application.Console" />
         <item itemvalue="Application.TipoString" />
         <item itemvalue="Application.Import" />
-        <item itemvalue="Application.NotacaoPonto" />
-        <item itemvalue="Application.TiposPrimitivos" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +148,8 @@
       <updated>1612578242670</updated>
       <workItem from="1612627831432" duration="4746000" />
       <workItem from="1612724284681" duration="4662000" />
-      <workItem from="1612817507154" duration="3784000" />
+      <workItem from="1612817507154" duration="4390000" />
+      <workItem from="1612912592905" duration="3330000" />
     </task>
     <servers />
   </component>
