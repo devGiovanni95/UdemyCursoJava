@@ -2,15 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21d0fefa-e36b-4915-b10b-b6abd88de2ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/fudamentos/Aritmeticos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fudamentos/ConversaoNumeroString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fudamentos/ConversaoStringNumero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fudamentos/ConversaoTipoPrimitivoNumerico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fudamentos/DesafioConversao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fudamentos/DesafioConversaoResposta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fudamentos/operadores/Atribuicao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fudamentos/operadores/DesafioAritimeticoResposta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fudamentos/operadores/DesafioAritimeticos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fudamentos/operadores/DesafioAritimeticos1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fudamentos/operadores/DesafioLogicoResposta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fudamentos/operadores/DesafioLogicos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fudamentos/operadores/Logicos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fudamentos/operadores/Relacionais.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fudamentos/operadores/Unarios.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyCursoJava/fudamentos/Wrapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fudamentos/Wrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fudamentos/Wrappers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyCursoJava/fudamentos/Aritmeticos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fudamentos/Aritmeticos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fudamentos/operadores/Aritmeticos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,14 +64,17 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="desafioFaculdade" />
     </key>
+    <key name="MoveInnerDialog.RECENTS_KEY">
+      <recent name="fudamentos.operadores" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Aritmeticos">
-    <configuration name="Aritmeticos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fudamentos.Aritmeticos" />
+  <component name="RunManager" selected="Application.Unarios">
+    <configuration name="Atribuicao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fudamentos.operadores.Atribuicao" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fudamentos.*" />
+          <option name="PATTERN" value="fudamentos.operadores.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConversaoNumeroString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fudamentos.ConversaoNumeroString" />
+    <configuration name="DesafioLogicoResposta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fudamentos.operadores.DesafioLogicoResposta" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fudamentos.*" />
+          <option name="PATTERN" value="fudamentos.operadores.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConversaoStringNumero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fudamentos.ConversaoStringNumero" />
+    <configuration name="Logicos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fudamentos.operadores.Logicos" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fudamentos.*" />
+          <option name="PATTERN" value="fudamentos.operadores.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DesafioConversao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fudamentos.DesafioConversao" />
+    <configuration name="Relacionais" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fudamentos.operadores.Relacionais" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fudamentos.*" />
+          <option name="PATTERN" value="fudamentos.operadores.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DesafioConversaoResposta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fudamentos.DesafioConversaoResposta" />
+    <configuration name="Unarios" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fudamentos.operadores.Unarios" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fudamentos.*" />
+          <option name="PATTERN" value="fudamentos.operadores.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Aritmeticos" />
-        <item itemvalue="Application.DesafioConversaoResposta" />
-        <item itemvalue="Application.DesafioConversao" />
-        <item itemvalue="Application.ConversaoStringNumero" />
-        <item itemvalue="Application.ConversaoNumeroString" />
+        <item itemvalue="Application.Unarios" />
+        <item itemvalue="Application.Atribuicao" />
+        <item itemvalue="Application.Relacionais" />
+        <item itemvalue="Application.DesafioLogicoResposta" />
+        <item itemvalue="Application.Logicos" />
       </list>
     </recent_temporary>
   </component>
@@ -162,6 +168,8 @@
       <workItem from="1612817507154" duration="4390000" />
       <workItem from="1612912592905" duration="3330000" />
       <workItem from="1613000439542" duration="5509000" />
+      <workItem from="1613079780467" duration="5609000" />
+      <workItem from="1613427506858" duration="4180000" />
     </task>
     <servers />
   </component>
@@ -179,5 +187,16 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/fudamentos/operadores/DesafioAritimeticos1.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -1,4 +1,4 @@
-package fudamentos;
+package fudamentos.operadores;
 
 public class Aritmeticos {
     public static void main(String[] args) {
@@ -27,4 +27,5 @@ public class Aritmeticos {
 
         System.out.println(x + y - a * b);
     }
+
 }
