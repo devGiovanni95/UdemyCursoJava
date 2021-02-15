@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21d0fefa-e36b-4915-b10b-b6abd88de2ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/fudamentos/operadores/Atribuicao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fudamentos/operadores/DesafioAritimeticoResposta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fudamentos/operadores/DesafioAritimeticos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fudamentos/operadores/DesafioAritimeticos1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fudamentos/operadores/DesafioLogicoResposta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fudamentos/operadores/DesafioLogicos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fudamentos/operadores/Logicos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fudamentos/operadores/Relacionais.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fudamentos/operadores/Unarios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fudamentos/operadores/Ternario.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyCursoJava/fudamentos/Aritmeticos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fudamentos/Aritmeticos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fudamentos/operadores/Aritmeticos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +58,7 @@
       <recent name="fudamentos.operadores" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Unarios">
+  <component name="RunManager" selected="Application.Ternario">
     <configuration name="Atribuicao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fudamentos.operadores.Atribuicao" />
       <module name="UdemyCursoJava" />
@@ -95,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Logicos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fudamentos.operadores.Logicos" />
+    <configuration name="Relacionais" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fudamentos.operadores.Relacionais" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
@@ -108,8 +98,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Relacionais" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fudamentos.operadores.Relacionais" />
+    <configuration name="Ternario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fudamentos.operadores.Ternario" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
@@ -147,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ternario" />
         <item itemvalue="Application.Unarios" />
         <item itemvalue="Application.Atribuicao" />
         <item itemvalue="Application.Relacionais" />
         <item itemvalue="Application.DesafioLogicoResposta" />
-        <item itemvalue="Application.Logicos" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +159,7 @@
       <workItem from="1612912592905" duration="3330000" />
       <workItem from="1613000439542" duration="5509000" />
       <workItem from="1613079780467" duration="5609000" />
-      <workItem from="1613427506858" duration="4180000" />
+      <workItem from="1613427506858" duration="5133000" />
     </task>
     <servers />
   </component>
