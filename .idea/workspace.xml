@@ -2,7 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21d0fefa-e36b-4915-b10b-b6abd88de2ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/fudamentos/operadores/Ternario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fudamentos/DesafioCalculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fudamentos/ExerciciosConceitosBasicos/DesafioAreaTriangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fudamentos/ExerciciosConceitosBasicos/DesafioBhaskara.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fudamentos/ExerciciosConceitosBasicos/DesafioElevar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fudamentos/ExerciciosConceitosBasicos/DesafioImc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fudamentos/ExerciciosConceitosBasicos/DesafioTemperatura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fudamentos/ExerciciosConceitosBasicos/DesafioTemperatura2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fudamentos/ExerciciosConceitosBasicos/Exercicio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fudamentos/ExerciciosConceitosBasicos/Exercicio2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fudamentos/ExerciciosConceitosBasicos/Exercicio3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fudamentos/ExerciciosConceitosBasicos/Exercicio4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fudamentos/ExerciciosConceitosBasicos/Exercicio5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fudamentos/ExerciciosConceitosBasicos/Exercicio6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fudamentos/TipoStringEquals.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,13 +71,13 @@
       <recent name="fudamentos.operadores" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ternario">
-    <configuration name="Atribuicao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fudamentos.operadores.Atribuicao" />
+  <component name="RunManager" selected="Application.Exercicio6">
+    <configuration name="DesafioAreaTriangulo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fudamentos.ExerciciosConceitosBasicos.DesafioAreaTriangulo" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fudamentos.operadores.*" />
+          <option name="PATTERN" value="fudamentos.ExerciciosConceitosBasicos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DesafioLogicoResposta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fudamentos.operadores.DesafioLogicoResposta" />
+    <configuration name="DesafioBhaskara" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fudamentos.ExerciciosConceitosBasicos.DesafioBhaskara" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fudamentos.operadores.*" />
+          <option name="PATTERN" value="fudamentos.ExerciciosConceitosBasicos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Relacionais" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fudamentos.operadores.Relacionais" />
+    <configuration name="DesafioElevar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fudamentos.ExerciciosConceitosBasicos.DesafioElevar" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fudamentos.operadores.*" />
+          <option name="PATTERN" value="fudamentos.ExerciciosConceitosBasicos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ternario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fudamentos.operadores.Ternario" />
+    <configuration name="DesafioImc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fudamentos.ExerciciosConceitosBasicos.DesafioImc" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fudamentos.operadores.*" />
+          <option name="PATTERN" value="fudamentos.ExerciciosConceitosBasicos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Unarios" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fudamentos.operadores.Unarios" />
+    <configuration name="Exercicio6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fudamentos.ExerciciosConceitosBasicos.Exercicio6" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fudamentos.operadores.*" />
+          <option name="PATTERN" value="fudamentos.ExerciciosConceitosBasicos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,24 +137,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ternario" />
-        <item itemvalue="Application.Unarios" />
-        <item itemvalue="Application.Atribuicao" />
-        <item itemvalue="Application.Relacionais" />
-        <item itemvalue="Application.DesafioLogicoResposta" />
+        <item itemvalue="Application.Exercicio6" />
+        <item itemvalue="Application.DesafioBhaskara" />
+        <item itemvalue="Application.DesafioAreaTriangulo" />
+        <item itemvalue="Application.DesafioElevar" />
+        <item itemvalue="Application.DesafioImc" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +174,8 @@
       <workItem from="1612912592905" duration="3330000" />
       <workItem from="1613000439542" duration="5509000" />
       <workItem from="1613079780467" duration="5609000" />
-      <workItem from="1613427506858" duration="5133000" />
+      <workItem from="1613427506858" duration="5728000" />
+      <workItem from="1613510960303" duration="8731000" />
     </task>
     <servers />
   </component>
