@@ -2,20 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21d0fefa-e36b-4915-b10b-b6abd88de2ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/fudamentos/DesafioCalculadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fudamentos/ExerciciosConceitosBasicos/DesafioAreaTriangulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fudamentos/ExerciciosConceitosBasicos/DesafioBhaskara.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fudamentos/ExerciciosConceitosBasicos/DesafioElevar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fudamentos/ExerciciosConceitosBasicos/DesafioImc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fudamentos/ExerciciosConceitosBasicos/DesafioTemperatura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fudamentos/ExerciciosConceitosBasicos/DesafioTemperatura2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fudamentos/ExerciciosConceitosBasicos/Exercicio1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fudamentos/ExerciciosConceitosBasicos/Exercicio2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fudamentos/ExerciciosConceitosBasicos/Exercicio3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fudamentos/ExerciciosConceitosBasicos/Exercicio4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fudamentos/ExerciciosConceitosBasicos/Exercicio5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fudamentos/ExerciciosConceitosBasicos/Exercicio6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fudamentos/TipoStringEquals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controle/DesafioDiaSemana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controle/DesafioIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controle/DesafioWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controle/DoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controle/For1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controle/If.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controle/IfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controle/IfElseIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controle/IfElseIf2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controle/WhileDeterminado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controle/WhileIndeterminado.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +54,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -71,13 +68,13 @@
       <recent name="fudamentos.operadores" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercicio6">
-    <configuration name="DesafioAreaTriangulo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fudamentos.ExerciciosConceitosBasicos.DesafioAreaTriangulo" />
+  <component name="RunManager" selected="Application.DesafioWhile">
+    <configuration name="DesafioWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controle.DesafioWhile" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fudamentos.ExerciciosConceitosBasicos.*" />
+          <option name="PATTERN" value="controle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DesafioBhaskara" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fudamentos.ExerciciosConceitosBasicos.DesafioBhaskara" />
+    <configuration name="DoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controle.DoWhile" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fudamentos.ExerciciosConceitosBasicos.*" />
+          <option name="PATTERN" value="controle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DesafioElevar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fudamentos.ExerciciosConceitosBasicos.DesafioElevar" />
+    <configuration name="For1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controle.For1" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fudamentos.ExerciciosConceitosBasicos.*" />
+          <option name="PATTERN" value="controle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DesafioImc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fudamentos.ExerciciosConceitosBasicos.DesafioImc" />
+    <configuration name="WhileDeterminado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controle.WhileDeterminado" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fudamentos.ExerciciosConceitosBasicos.*" />
+          <option name="PATTERN" value="controle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fudamentos.ExerciciosConceitosBasicos.Exercicio6" />
+    <configuration name="WhileIndeterminado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controle.WhileIndeterminado" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fudamentos.ExerciciosConceitosBasicos.*" />
+          <option name="PATTERN" value="controle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,26 +134,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercicio6" />
-        <item itemvalue="Application.DesafioBhaskara" />
-        <item itemvalue="Application.DesafioAreaTriangulo" />
-        <item itemvalue="Application.DesafioElevar" />
-        <item itemvalue="Application.DesafioImc" />
+        <item itemvalue="Application.DesafioWhile" />
+        <item itemvalue="Application.DoWhile" />
+        <item itemvalue="Application.WhileIndeterminado" />
+        <item itemvalue="Application.For1" />
+        <item itemvalue="Application.WhileDeterminado" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +170,8 @@
       <workItem from="1613000439542" duration="5509000" />
       <workItem from="1613079780467" duration="5609000" />
       <workItem from="1613427506858" duration="5728000" />
-      <workItem from="1613510960303" duration="8731000" />
+      <workItem from="1613510960303" duration="9428000" />
+      <workItem from="1613598052083" duration="9496000" />
     </task>
     <servers />
   </component>
@@ -201,6 +197,11 @@
           <url>file://$PROJECT_DIR$/src/fudamentos/operadores/DesafioAritimeticos1.java</url>
           <line>4</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/controle/DesafioWhile.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
