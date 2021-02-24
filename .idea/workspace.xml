@@ -2,17 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21d0fefa-e36b-4915-b10b-b6abd88de2ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/controle/DesafioDiaSemana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controle/DesafioIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controle/DesafioWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controle/DoWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controle/For1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controle/If.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controle/IfElse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controle/IfElseIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controle/IfElseIf2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controle/WhileDeterminado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controle/WhileIndeterminado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controle/Break.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controle/BreakRotulado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controle/Continue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controle/ContinueRotulado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controle/DesafioFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Programa1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Programa2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Programa3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Programa4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Programa5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Programa6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Programa7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Programa8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Programa9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Respostas/Programa1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Respostas/Programa2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Respostas/Programa3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Respostas/Programa4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Respostas/Programa5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Respostas/Programa6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Respostas/Programa7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Respostas/Programa8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Respostas/Programa9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controle/For2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controle/For3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controle/SwitchComBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controle/SwitchSemBreak.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,11 +69,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Respostas" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\ProjetosJava\UdemyCursoJava\src\controle\ExerciciosEstruturaDeControle\Respostas" />
       <recent name="C:\Users\user\Documents\GitHub\UdemyCursoJava\src\ExemploDeOrganização\pessoa" />
       <recent name="C:\Users\user\Documents\GitHub\UdemyCursoJava\src\exemploDeOrganização\pessoa" />
     </key>
@@ -68,9 +85,9 @@
       <recent name="fudamentos.operadores" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DesafioWhile">
-    <configuration name="DesafioWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="controle.DesafioWhile" />
+  <component name="RunManager" selected="Application.Programa1 (1)">
+    <configuration name="For2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controle.For2" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
@@ -82,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="controle.DoWhile" />
+    <configuration name="Programa1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controle.ExerciciosEstruturaDeControle.Respostas.Programa1" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="controle.*" />
+          <option name="PATTERN" value="controle.ExerciciosEstruturaDeControle.Respostas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="For1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="controle.For1" />
+    <configuration name="Programa1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controle.ExerciciosEstruturaDeControle.Programa1" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="controle.*" />
+          <option name="PATTERN" value="controle.ExerciciosEstruturaDeControle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileDeterminado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="controle.WhileDeterminado" />
+    <configuration name="Programa2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controle.ExerciciosEstruturaDeControle.Programa2" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="controle.*" />
+          <option name="PATTERN" value="controle.ExerciciosEstruturaDeControle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileIndeterminado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="controle.WhileIndeterminado" />
+    <configuration name="Programa2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controle.ExerciciosEstruturaDeControle.Respostas.Programa2" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="controle.*" />
+          <option name="PATTERN" value="controle.ExerciciosEstruturaDeControle.Respostas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,24 +151,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DesafioWhile" />
-        <item itemvalue="Application.DoWhile" />
-        <item itemvalue="Application.WhileIndeterminado" />
-        <item itemvalue="Application.For1" />
-        <item itemvalue="Application.WhileDeterminado" />
+        <item itemvalue="Application.Programa1 (1)" />
+        <item itemvalue="Application.Programa21" />
+        <item itemvalue="Application.Programa2" />
+        <item itemvalue="Application.For2" />
+        <item itemvalue="Application.Programa1" />
       </list>
     </recent_temporary>
   </component>
@@ -172,6 +191,10 @@
       <workItem from="1613427506858" duration="5728000" />
       <workItem from="1613510960303" duration="9428000" />
       <workItem from="1613598052083" duration="9496000" />
+      <workItem from="1613930436699" duration="4555000" />
+      <workItem from="1614034106371" duration="120000" />
+      <workItem from="1614039897127" duration="1564000" />
+      <workItem from="1614117638074" duration="7266000" />
     </task>
     <servers />
   </component>
@@ -202,6 +225,11 @@
           <url>file://$PROJECT_DIR$/src/controle/DesafioWhile.java</url>
           <line>7</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/controle/BreakRotulado.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
