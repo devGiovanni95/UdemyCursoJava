@@ -2,34 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21d0fefa-e36b-4915-b10b-b6abd88de2ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/controle/Break.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controle/BreakRotulado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controle/Continue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controle/ContinueRotulado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controle/DesafioFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Programa1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Programa2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Programa3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Programa4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Programa5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Programa6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Programa7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Programa8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Programa9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Respostas/Programa1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Respostas/Programa2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Respostas/Programa3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Respostas/Programa4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Respostas/Programa5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Respostas/Programa6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Respostas/Programa7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Respostas/Programa8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Respostas/Programa9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controle/For2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controle/For3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controle/SwitchComBreak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controle/SwitchSemBreak.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Programa3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Programa3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Programa4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Programa4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Programa5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Programa5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Programa6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Programa6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Programa7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Programa7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Programa8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Programa8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Programa9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Programa9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Respostas/Programa3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Respostas/Programa3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Respostas/Programa4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Respostas/Programa4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Respostas/Programa5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Respostas/Programa5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Respostas/Programa6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Respostas/Programa6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Respostas/Programa7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Respostas/Programa7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Respostas/Programa8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Respostas/Programa8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Respostas/Programa9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Respostas/Programa9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,59 +72,7 @@
       <recent name="fudamentos.operadores" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Programa1 (1)">
-    <configuration name="For2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="controle.For2" />
-      <module name="UdemyCursoJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="controle.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Programa1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="controle.ExerciciosEstruturaDeControle.Respostas.Programa1" />
-      <module name="UdemyCursoJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="controle.ExerciciosEstruturaDeControle.Respostas.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Programa1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="controle.ExerciciosEstruturaDeControle.Programa1" />
-      <module name="UdemyCursoJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="controle.ExerciciosEstruturaDeControle.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Programa2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="controle.ExerciciosEstruturaDeControle.Programa2" />
-      <module name="UdemyCursoJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="controle.ExerciciosEstruturaDeControle.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Programa9">
     <configuration name="Programa2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="controle.ExerciciosEstruturaDeControle.Respostas.Programa2" />
       <module name="UdemyCursoJava" />
@@ -151,26 +86,89 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration name="Programa6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controle.ExerciciosEstruturaDeControle.Programa6" />
+      <module name="UdemyCursoJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="controle.ExerciciosEstruturaDeControle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Programa7 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controle.ExerciciosEstruturaDeControle.Respostas.Programa7" />
+      <module name="UdemyCursoJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="controle.ExerciciosEstruturaDeControle.Respostas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Programa7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controle.ExerciciosEstruturaDeControle.Programa7" />
+      <module name="UdemyCursoJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="controle.ExerciciosEstruturaDeControle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Programa8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controle.ExerciciosEstruturaDeControle.Respostas.Programa8" />
+      <module name="UdemyCursoJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="controle.ExerciciosEstruturaDeControle.Respostas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Programa9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controle.ExerciciosEstruturaDeControle.Respostas.Programa9" />
+      <module name="UdemyCursoJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="controle.ExerciciosEstruturaDeControle.Respostas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Programa1 (1)" />
-        <item itemvalue="Application.Programa21" />
-        <item itemvalue="Application.Programa2" />
-        <item itemvalue="Application.For2" />
-        <item itemvalue="Application.Programa1" />
+        <item itemvalue="Application.Programa9" />
+        <item itemvalue="Application.Programa8" />
+        <item itemvalue="Application.Programa7 (1)" />
+        <item itemvalue="Application.Programa7" />
+        <item itemvalue="Application.Programa6" />
       </list>
     </recent_temporary>
   </component>
@@ -195,6 +193,7 @@
       <workItem from="1614034106371" duration="120000" />
       <workItem from="1614039897127" duration="1564000" />
       <workItem from="1614117638074" duration="7266000" />
+      <workItem from="1614206597032" duration="5285000" />
     </task>
     <servers />
   </component>
@@ -230,6 +229,11 @@
           <url>file://$PROJECT_DIR$/src/controle/BreakRotulado.java</url>
           <line>6</line>
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Programa4.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
