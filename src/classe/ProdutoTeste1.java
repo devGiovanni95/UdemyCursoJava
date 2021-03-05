@@ -3,7 +3,7 @@ package classe;
 public class ProdutoTeste1 {
     public static void main(String[] args) {
 
- //       exemplo de chamada de construtor
+//       exemplo de chamada de construtor
 //        int a = 3;
 //        Scanner entrada = new Scanner(System.in);
 
@@ -20,9 +20,11 @@ public class ProdutoTeste1 {
         System.out.println(p1.nome);
         System.out.println(p2.nome);
 
+// como colocamos dois metodos um sem parametro do desconto do gerente e outro com desconto na hora que voce declara um parametro ele automaticamente seleciona  um e quando vc nao declara ele escolhe o outro
+
         double precoFinal1 = p1.precoComDesconto();
-        double precoFinal2 = p2.precoComDesconto();
-        double mediaCarrinho = ((precoFinal1 + precoFinal2) / 2 );
+        double precoFinal2 = p2.precoComDesconto(0.1);
+        double mediaCarrinho = ((precoFinal1 + precoFinal2) / 2);
 
         System.out.printf("Média do carrinho = R$ %.2f.", mediaCarrinho);
     }
