@@ -1,6 +1,6 @@
 package classe;
 
-public class Produto1 {
+public class ProdutoDesafio {
     String nome;
     double preco;
     static double desconto = 0.25;
@@ -9,12 +9,11 @@ public class Produto1 {
 // no caso de ter um outro desconto para funcionarios ou par agerente podemos colocar
 // dentro das () como parametro para que seja obrigatorio a sua imolementação
 //
-    Produto1() {
+    ProdutoDesafio() {
 
     }
 
-    Produto1(String nomeInicial, double precoInicial,
-             double descontoInicial){
+    ProdutoDesafio(String nomeInicial, double precoInicial){
         nome = nomeInicial;
         preco = precoInicial;
 

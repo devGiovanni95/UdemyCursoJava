@@ -1,29 +1,30 @@
 package classe;
 
-public class ProdutoTeste1 {
+public class ProdutoTesteDesafio {
     public static void main(String[] args) {
 
 //       exemplo de chamada de construtor
 //        int a = 3;
 //        Scanner entrada = new Scanner(System.in);
 
-        Produto1 p1 = new Produto1();
+        ProdutoDesafio p1 = new ProdutoDesafio();
         p1.nome = "Notebook";
         p1.preco = 4356.89;
-        p1.desconto = 0.25;
 
-        var p2 = new Produto1();
+        var p2 = new ProdutoDesafio();
         p2.nome = "Caneta Preta";
         p2.preco = 12.56;
-        p2.desconto = 0.29;
 
-        var p3 =new Produto1("Caneca", 22.25,0.10);
+        //ele esta alterando o desconto total do produto alterando o valor de todos os descontos
 
-        System.out.println(p1.nome);
-        System.out.println(p2.nome);
-        System.out.println(p3.nome);
+        ProdutoDesafio.desconto = 0.50;
 
-// como colocamos dois metodos um sem parametro do desconto do gerente e outro com desconto na hora que voce declara um parametro ele automaticamente seleciona  um e quando vc nao declara ele escolhe o outro
+        var p3 =new ProdutoDesafio("Caneca", 22.25);
+
+        System.out.println(p1.nome + " " + p1.precoComDesconto());
+        System.out.println(p1.nome + " " + p2.precoComDesconto());
+        System.out.println(p1.nome + " " + p3.precoComDesconto());
+
 
         double precoFinal1 = p1.precoComDesconto();
         double precoFinal2 = p2.precoComDesconto(0.1);
