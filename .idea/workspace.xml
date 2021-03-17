@@ -2,15 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21d0fefa-e36b-4915-b10b-b6abd88de2ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/classe/ProdutoDesafio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classe/ProdutoTesteDesafio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classe/DataTesteThis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classe/DataThis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classe/DesafioPrimeiroTrauma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classe/DesafioPrimeiroTraumaResposta1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classe/DesafioPrimeiroTraumaResposta2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classe/valorVsReferencia.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyCursoJava/classe/Produto.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UdemyCursoJava/classe/Produto.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyCursoJava/classe/Produto1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UdemyCursoJava/classe/Produto1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyCursoJava/classe/ProdutoTeste1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UdemyCursoJava/classe/ProdutoTeste1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classe/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classe/Produto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classe/Produto1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classe/Produto1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classe/ProdutoTeste1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classe/ProdutoTeste1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyCursoJava/classe/ProdutoTesteDesafio.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UdemyCursoJava/classe/ProdutoTesteDesafio.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +49,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/classe" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -58,6 +57,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\ProjetosJava\UdemyCursoJava\src\classe" />
       <recent name="C:\ProjetosJava\UdemyCursoJava\src\controle\ExerciciosEstruturaDeControle\Respostas" />
       <recent name="C:\Users\user\Documents\GitHub\UdemyCursoJava\src\ExemploDeOrganização\pessoa" />
       <recent name="C:\Users\user\Documents\GitHub\UdemyCursoJava\src\exemploDeOrganização\pessoa" />
@@ -72,9 +72,9 @@
       <recent name="classe" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ProdutoTesteDesafio">
-    <configuration name="DataTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classe.DataTeste" />
+  <component name="RunManager" selected="Application.DesafioPrimeiroTraumaResposta2">
+    <configuration name="DesafioPrimeiroTraumaResposta1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classe.DesafioPrimeiroTraumaResposta1" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
@@ -86,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataTeste1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classe.DataTeste1" />
+    <configuration name="DesafioPrimeiroTraumaResposta2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classe.DesafioPrimeiroTraumaResposta2" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
@@ -125,8 +125,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="areaCircTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classe.areaCircTest" />
+    <configuration name="valorVsReferencia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classe.valorVsReferencia" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
@@ -140,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DesafioPrimeiroTraumaResposta2" />
+        <item itemvalue="Application.DesafioPrimeiroTraumaResposta1" />
+        <item itemvalue="Application.valorVsReferencia" />
         <item itemvalue="Application.ProdutoTesteDesafio" />
         <item itemvalue="Application.ProdutoTeste1" />
-        <item itemvalue="Application.areaCircTest" />
-        <item itemvalue="Application.DataTeste1" />
-        <item itemvalue="Application.DataTeste" />
       </list>
     </recent_temporary>
   </component>
