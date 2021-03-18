@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21d0fefa-e36b-4915-b10b-b6abd88de2ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/classe/DataTesteThis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classe/DataThis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classe/DesafioPrimeiroTrauma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classe/DesafioPrimeiroTraumaResposta1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classe/DesafioPrimeiroTraumaResposta2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classe/valorVsReferencia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classe/DesafioModulo/Comida.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classe/DesafioModulo/Jantar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classe/DesafioModulo/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classe/valorNulo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyCursoJava/classe/ProdutoTesteDesafio.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UdemyCursoJava/classe/ProdutoTesteDesafio.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classe/DataThis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classe/DataThis.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +70,7 @@
       <recent name="classe" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DesafioPrimeiroTraumaResposta2">
+  <component name="RunManager" selected="Application.Jantar">
     <configuration name="DesafioPrimeiroTraumaResposta1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="classe.DesafioPrimeiroTraumaResposta1" />
       <module name="UdemyCursoJava" />
@@ -99,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProdutoTeste1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classe.ProdutoTeste1" />
+    <configuration name="Jantar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classe.DesafioModulo.Jantar" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="classe.*" />
+          <option name="PATTERN" value="classe.DesafioModulo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,8 +110,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProdutoTesteDesafio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classe.ProdutoTesteDesafio" />
+    <configuration name="valorNulo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classe.valorNulo" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
@@ -140,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Jantar" />
+        <item itemvalue="Application.valorNulo" />
         <item itemvalue="Application.DesafioPrimeiroTraumaResposta2" />
         <item itemvalue="Application.DesafioPrimeiroTraumaResposta1" />
         <item itemvalue="Application.valorVsReferencia" />
-        <item itemvalue="Application.ProdutoTesteDesafio" />
-        <item itemvalue="Application.ProdutoTeste1" />
       </list>
     </recent_temporary>
   </component>

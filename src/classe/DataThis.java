@@ -12,6 +12,16 @@ public class DataThis {
 //        ano = 1970;
         //em vez de colocar as datas assim podemos fazer desta forma
     this(1,1,1970);
+
+    //valores padroes
+        //byte, short, int, long => 0
+        //float, double => 0.0
+        //boolean => false
+        // char => '\u0000'
+        //se definimos variaves em metodos sem definirmos sua inicialização da erro pois necessita ser iniciada
+        //somente quando declaramos na classe que ela automaticamente se inicia com o valor padrao de 0 ou false
+        // quando criamos constantes somos obrigados a declarar o seu valor por ser uma constante e nao ser mutavel seu valor
+
     }
 
     DataThis(int diaInicial, int mesInicial, int anoInicial){
