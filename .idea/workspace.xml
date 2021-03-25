@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21d0fefa-e36b-4915-b10b-b6abd88de2ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/arrays/Desafio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/Exercicio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/ExercicioForeach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/Foreach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/Matriz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/equals/AEqualsHashcode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/equals/AUsuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/equals/EqualsHashcode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/equals/Usuario.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyCursoJava/arrays/Matriz.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UdemyCursoJava/arrays/Matriz.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,11 +67,25 @@
       <recent name="fudamentos.operadores" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="equals" />
       <recent name="arrays" />
       <recent name="classe" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Matriz">
+  <component name="RunManager" selected="Application.AEqualsHashcode">
+    <configuration name="AEqualsHashcode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="equals.AEqualsHashcode" />
+      <module name="UdemyCursoJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="equals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Desafio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arrays.Desafio" />
       <module name="UdemyCursoJava" />
@@ -85,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.Exercicio" />
+    <configuration name="EqualsHashcode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="equals.EqualsHashcode" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrays.*" />
+          <option name="PATTERN" value="equals.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,19 +114,6 @@
     </configuration>
     <configuration name="ExercicioForeach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arrays.ExercicioForeach" />
-      <module name="UdemyCursoJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Foreach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.Foreach" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
@@ -139,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AEqualsHashcode" />
+        <item itemvalue="Application.EqualsHashcode" />
         <item itemvalue="Application.Matriz" />
         <item itemvalue="Application.Desafio" />
         <item itemvalue="Application.ExercicioForeach" />
-        <item itemvalue="Application.Foreach" />
-        <item itemvalue="Application.Exercicio" />
       </list>
     </recent_temporary>
   </component>
