@@ -2,12 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21d0fefa-e36b-4915-b10b-b6abd88de2ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/equals/AEqualsHashcode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/equals/AUsuario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/equals/EqualsHashcode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/equals/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/colecoes/ConjuntoBaguncado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/colecoes/ConjuntoComportado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/colecoes/Fila.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/colecoes/Hash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/colecoes/Lista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/colecoes/Mapa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/colecoes/Pilha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/colecoes/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oo/composicao/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oo/composicao/CarroTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oo/composicao/Motor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyCursoJava/arrays/Matriz.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UdemyCursoJava/arrays/Matriz.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyCursoJava/equals/AEqualsHashcode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UdemyCursoJava/equals/AEqualsHashcode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyCursoJava/equals/AUsuario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UdemyCursoJava/equals/AUsuario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/equals/AUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/equals/AUsuario.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,13 +82,13 @@
       <recent name="classe" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AEqualsHashcode">
-    <configuration name="AEqualsHashcode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="equals.AEqualsHashcode" />
+  <component name="RunManager" selected="Application.CarroTeste">
+    <configuration name="CarroTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oo.composicao.CarroTeste" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="equals.*" />
+          <option name="PATTERN" value="oo.composicao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Desafio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.Desafio" />
+    <configuration name="Fila" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="colecoes.Fila" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrays.*" />
+          <option name="PATTERN" value="colecoes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EqualsHashcode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="equals.EqualsHashcode" />
+    <configuration name="Hash" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="colecoes.Hash" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="equals.*" />
+          <option name="PATTERN" value="colecoes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExercicioForeach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.ExercicioForeach" />
+    <configuration name="Mapa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="colecoes.Mapa" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrays.*" />
+          <option name="PATTERN" value="colecoes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Matriz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.Matriz" />
+    <configuration name="Pilha" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="colecoes.Pilha" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrays.*" />
+          <option name="PATTERN" value="colecoes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AEqualsHashcode" />
-        <item itemvalue="Application.EqualsHashcode" />
-        <item itemvalue="Application.Matriz" />
-        <item itemvalue="Application.Desafio" />
-        <item itemvalue="Application.ExercicioForeach" />
+        <item itemvalue="Application.CarroTeste" />
+        <item itemvalue="Application.Hash" />
+        <item itemvalue="Application.Mapa" />
+        <item itemvalue="Application.Pilha" />
+        <item itemvalue="Application.Fila" />
       </list>
     </recent_temporary>
   </component>
