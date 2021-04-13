@@ -2,22 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21d0fefa-e36b-4915-b10b-b6abd88de2ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/colecoes/ConjuntoBaguncado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/colecoes/ConjuntoComportado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/colecoes/Fila.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/colecoes/Hash.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/colecoes/Lista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/colecoes/Mapa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/colecoes/Pilha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/colecoes/Usuario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oo/composicao/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oo/composicao/CarroTeste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oo/composicao/Motor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oo/composicao/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oo/composicao/Compra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oo/composicao/CompraTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oo/composicao/Curso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oo/composicao/CursoTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oo/composicao/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oo/desafioComposicao/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oo/desafioComposicao/Compra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oo/desafioComposicao/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oo/desafioComposicao/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oo/desafioComposicao/Sistema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oo/heranca/Direcao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oo/heranca/Heroi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oo/heranca/Jogador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oo/heranca/Jogo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oo/heranca/Monstro.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" afterPath="$PROJECT_DIR$/.project" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyCursoJava/equals/AEqualsHashcode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UdemyCursoJava/equals/AEqualsHashcode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyCursoJava/equals/AUsuario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UdemyCursoJava/equals/AUsuario.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/equals/AUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/equals/AUsuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyCursoJava/oo/composicao/Carro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UdemyCursoJava/oo/composicao/Carro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyCursoJava/oo/composicao/CarroTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UdemyCursoJava/oo/composicao/CarroTeste.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyCursoJava/oo/composicao/Motor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UdemyCursoJava/oo/composicao/Motor.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +32,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -82,7 +87,7 @@
       <recent name="classe" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CarroTeste">
+  <component name="RunManager" selected="Application.Jogo">
     <configuration name="CarroTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oo.composicao.CarroTeste" />
       <module name="UdemyCursoJava" />
@@ -96,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fila" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="colecoes.Fila" />
+    <configuration name="CompraTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oo.composicao.CompraTeste" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="colecoes.*" />
+          <option name="PATTERN" value="oo.composicao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hash" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="colecoes.Hash" />
+    <configuration name="CursoTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oo.composicao.CursoTeste" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="colecoes.*" />
+          <option name="PATTERN" value="oo.composicao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Mapa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="colecoes.Mapa" />
+    <configuration name="Jogo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oo.heranca.Jogo" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="colecoes.*" />
+          <option name="PATTERN" value="oo.heranca.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pilha" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="colecoes.Pilha" />
+    <configuration name="Sistema" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oo.composicao.desafioComposicao.Sistema" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="colecoes.*" />
+          <option name="PATTERN" value="oo.composicao.desafioComposicao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Jogo" />
+        <item itemvalue="Application.Sistema" />
+        <item itemvalue="Application.CursoTeste" />
+        <item itemvalue="Application.CompraTeste" />
         <item itemvalue="Application.CarroTeste" />
-        <item itemvalue="Application.Hash" />
-        <item itemvalue="Application.Mapa" />
-        <item itemvalue="Application.Pilha" />
-        <item itemvalue="Application.Fila" />
       </list>
     </recent_temporary>
   </component>
