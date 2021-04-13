@@ -2,26 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21d0fefa-e36b-4915-b10b-b6abd88de2ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oo/composicao/Aluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oo/composicao/Compra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oo/composicao/CompraTeste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oo/composicao/Curso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oo/composicao/CursoTeste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oo/composicao/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oo/desafioComposicao/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oo/desafioComposicao/Compra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oo/desafioComposicao/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oo/desafioComposicao/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oo/desafioComposicao/Sistema.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oo/heranca/Direcao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oo/heranca/Heroi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oo/heranca/Jogador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oo/heranca/Jogo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oo/heranca/Monstro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oo/heranca/desafio/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oo/heranca/desafio/CarroTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oo/heranca/desafio/Civic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oo/heranca/desafio/Ferrari.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyCursoJava/oo/composicao/Carro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UdemyCursoJava/oo/composicao/Carro.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyCursoJava/oo/composicao/CarroTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UdemyCursoJava/oo/composicao/CarroTeste.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyCursoJava/oo/composicao/Motor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UdemyCursoJava/oo/composicao/Motor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyCursoJava/oo/heranca/Heroi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UdemyCursoJava/oo/heranca/Heroi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyCursoJava/oo/heranca/Jogo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UdemyCursoJava/oo/heranca/Jogo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oo/heranca/Heroi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oo/heranca/Heroi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oo/heranca/Jogo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oo/heranca/Jogo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +55,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -87,13 +76,13 @@
       <recent name="classe" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Jogo">
-    <configuration name="CarroTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oo.composicao.CarroTeste" />
+  <component name="RunManager" selected="Application.CarroTeste (1)">
+    <configuration name="CarroTeste (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oo.heranca.desafio.CarroTeste" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oo.composicao.*" />
+          <option name="PATTERN" value="oo.heranca.desafio.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CarroTeste (1)" />
         <item itemvalue="Application.Jogo" />
         <item itemvalue="Application.Sistema" />
         <item itemvalue="Application.CursoTeste" />
         <item itemvalue="Application.CompraTeste" />
-        <item itemvalue="Application.CarroTeste" />
       </list>
     </recent_temporary>
   </component>

@@ -3,46 +3,58 @@ package oo.heranca;
 public class Jogo {
     public static void main(String[] args) {
 
-//        Jogador j1 = new Jogador();
-        Monstro j1 = new Monstro();
-        j1.x = 10;
-        j1.y = 10;
+//        Jogador monstro = new Jogador();
+        Monstro monstro = new Monstro();
+        monstro.x = 10;
+        monstro.y = 10;
 
-//        Jogador j2 = new Jogador();
-        Heroi j2 = new Heroi();
-        j2.x = 10;
-        j2.y = 11;
+//        Jogador heroi = new Jogador();
+        Heroi heroi = new Heroi();
+        heroi.x = 10;
+        heroi.y = 11;
 
-        System.out.println(j1.vida);
-        System.out.println(j2.vida);
+        System.out.println("Monstro tem => " + monstro.vida);
+        System.out.println("Heroi tem => " + heroi.vida);
 
-        j1.atacar(j2);
-        j2.atacar(j1);
+        monstro.atacar(heroi);
+        heroi.atacar(monstro);
 
-        System.out.println(j1.vida);
-        System.out.println(j2.vida);
-//        j1.andar(Direcao.NORTE);
-//        j1.andar(Direcao.LESTE);
-//        j1.andar(Direcao.NORTE);
-//        j1.andar(Direcao.LESTE);
-//        j1.andar(Direcao.NORTE);
-//        j1.andar(Direcao.NORTE);
+        // nao deu certo a troca de posicao
+        //  monstro.andar(Direcao.NORTE);   // ataca 3 vezes e depois disso nao ataca mais pois o monstro mudou de posição
+
+        monstro.atacar(heroi);
+        heroi.atacar(monstro);
+
+        monstro.atacar(heroi);
+        heroi.atacar(monstro);
 
 
-//        j1.andar(1);
-//        j1.andar(1);
-//        j1.andar(3);
-//        j1.andar(1);
-//        j1.andar(1);
-//        j1.andar(1);
-//        j1.andar(1);
+        System.out.println("Monstro tem => " + monstro.vida);
+        System.out.println("Heroi tem => " + heroi.vida);
 
-//        j1.andar("norte");
-//        j1.andar("norte");
-//        j1.andar("norte");
-//        j1.andar("norte");
-//        j1.andar("norte");
+
+//        monstro.andar(Direcao.NORTE);
+//        monstro.andar(Direcao.LESTE);
+//        monstro.andar(Direcao.NORTE);
+//        monstro.andar(Direcao.LESTE);
+//        monstro.andar(Direcao.NORTE);
+//        monstro.andar(Direcao.NORTE);
+
+
+//        monstro.andar(1);
+//        monstro.andar(1);
+//        monstro.andar(3);
+//        monstro.andar(1);
+//        monstro.andar(1);
+//        monstro.andar(1);
+//        monstro.andar(1);
+
+//        monstro.andar("norte");
+//        monstro.andar("norte");
+//        monstro.andar("norte");
+//        monstro.andar("norte");
+//        monstro.andar("norte");
 //
-//        System.out.println(j1.y);
+//        System.out.println(monstro.y);
     }
 }
