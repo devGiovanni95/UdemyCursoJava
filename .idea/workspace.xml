@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21d0fefa-e36b-4915-b10b-b6abd88de2ca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/oo/heranca/desafio2/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oo/heranca/desafio2/CarroTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oo/heranca/desafio2/Civic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oo/heranca/desafio2/Ferrari.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oo/heranca/Heroi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oo/heranca/Heroi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oo/heranca/Jogador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oo/heranca/Jogador.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oo/heranca/Jogo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oo/heranca/Jogo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oo/heranca/Monstro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oo/heranca/Monstro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyCursoJava/oo/heranca/Heroi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UdemyCursoJava/oo/heranca/Heroi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyCursoJava/oo/heranca/Jogador$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UdemyCursoJava/oo/heranca/Jogador$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyCursoJava/oo/heranca/Jogador.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UdemyCursoJava/oo/heranca/Jogador.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyCursoJava/oo/heranca/Jogo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UdemyCursoJava/oo/heranca/Jogo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyCursoJava/oo/heranca/Monstro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UdemyCursoJava/oo/heranca/Monstro.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +52,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/classe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/oo/heranca/desafio2" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -55,10 +60,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\ProjetosJava\UdemyCursoJava\src\oo\heranca\desafio2" />
+      <recent name="C:\ProjetosJava\UdemyCursoJava\src\oo\heranca" />
       <recent name="C:\ProjetosJava\UdemyCursoJava\src\classe" />
       <recent name="C:\ProjetosJava\UdemyCursoJava\src\controle\ExerciciosEstruturaDeControle\Respostas" />
       <recent name="C:\Users\user\Documents\GitHub\UdemyCursoJava\src\ExemploDeOrganização\pessoa" />
-      <recent name="C:\Users\user\Documents\GitHub\UdemyCursoJava\src\exemploDeOrganização\pessoa" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="desafioFaculdade" />
@@ -72,7 +78,7 @@
       <recent name="classe" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CarroTeste (1)">
+  <component name="RunManager" selected="Application.CarroTeste">
     <configuration name="CarroTeste (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oo.heranca.desafio.CarroTeste" />
       <module name="UdemyCursoJava" />
@@ -86,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CompraTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oo.composicao.CompraTeste" />
+    <configuration name="CarroTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oo.heranca.desafio2.CarroTeste" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oo.composicao.*" />
+          <option name="PATTERN" value="oo.heranca.desafio2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CarroTeste" />
         <item itemvalue="Application.CarroTeste (1)" />
         <item itemvalue="Application.Jogo" />
         <item itemvalue="Application.Sistema" />
         <item itemvalue="Application.CursoTeste" />
-        <item itemvalue="Application.CompraTeste" />
       </list>
     </recent_temporary>
   </component>
