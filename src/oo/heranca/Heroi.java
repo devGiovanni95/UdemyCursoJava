@@ -2,6 +2,14 @@ package oo.heranca;
 
 public class Heroi extends Jogador {
 
+    //por colocar na classe Pai o contrutor de Jogador
+    // determinando que e ne4cessario estar declarar as posicoes
+    // por criacao, temos que criar um costrutos explicito mostrando
+    // explicitamente os valores pedidos no constrututo da classe PAI
+
+    Heroi(int x, int y){
+        super(x,y);
+    }
 //    boolean atacar (Jogador oponente){
 //
 //        int deltaX = Math.abs(x - oponente.x); // math absoluto nao importa se o numero e positivo ou negativo

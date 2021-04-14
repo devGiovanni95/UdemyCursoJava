@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21d0fefa-e36b-4915-b10b-b6abd88de2ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oo/heranca/desafio/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oo/heranca/desafio/CarroTeste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oo/heranca/desafio/Civic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oo/heranca/desafio/Ferrari.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyCursoJava/oo/heranca/Heroi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UdemyCursoJava/oo/heranca/Heroi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyCursoJava/oo/heranca/Jogo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UdemyCursoJava/oo/heranca/Jogo.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/oo/heranca/Heroi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oo/heranca/Heroi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oo/heranca/Jogador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oo/heranca/Jogador.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/oo/heranca/Jogo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oo/heranca/Jogo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oo/heranca/Monstro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oo/heranca/Monstro.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
