@@ -7,8 +7,8 @@ public class Heroi extends Jogador {
     // por criacao, temos que criar um costrutos explicito mostrando
     // explicitamente os valores pedidos no constrututo da classe PAI
 
-    Heroi(int x, int y){
-        super(x,y);
+    public Heroi(int x, int y) {
+        super(x, y);
     }
 //    boolean atacar (Jogador oponente){
 //
@@ -27,8 +27,10 @@ public class Heroi extends Jogador {
 //    }
 
     //reutilizando o codigo
-
-    boolean atacar(Jogador oponente) {
+    @Override
+    //colocando pro metodo ser publico para qualquer outra classe poder acessar
+    // como sobrescrevemos este metodo necessitamos aumentar a sua visibilicade e nao diminuir a visibilidade
+    public boolean atacar(Jogador oponente) {
         boolean ataque1 = super.atacar(oponente);
         boolean ataque2 = super.atacar(oponente);
         boolean ataque3 = super.atacar(oponente);

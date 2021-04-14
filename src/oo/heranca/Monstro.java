@@ -6,13 +6,15 @@ public class Monstro extends  Jogador{
 //        super(0,0);
 //    }
 
-    //este contrutor esta chamando o construtor abaixo
-    Monstro(){
+    //colocando pro metodo ser publico para qualquer outra classe poder acessar
+
+    public Monstro(){
         this(0,0);
     }
 
-    // Este construtor esta chamando o construtor da classe PAI
-    Monstro(int x, int y){
+    //colocando pro metodo ser publico para qualquer outra classe poder acessar
+
+    public Monstro(int x, int y){
         super(0,0);
     }
 }

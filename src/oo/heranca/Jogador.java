@@ -2,16 +2,18 @@ package oo.heranca;
 
 public class Jogador {
 
-    int vida = 100;
-    int x;
-    int y;
+    public int vida = 100;
+    public int x;
+    public int y;
 
-    Jogador(int x, int y){
+    //para garantir que outras classes possam herdar o metodo jogador deixamos ele como protected
+    protected Jogador(int x, int y) {
         this.x = x;
         this.y = y;
     }
 
-    boolean atacar (Jogador oponente){
+    //colocando pro metodo ser publico para qualquer outra classe poder acessar
+    public boolean atacar(Jogador oponente) {
 
         int deltaX = Math.abs(x - oponente.x); // math absoluto nao importa se o numero e positivo ou negativo
         int deltaY = Math.abs(y - oponente.y);
@@ -19,16 +21,16 @@ public class Jogador {
         if (deltaX == 0 && deltaY == 1) {
             oponente.vida -= 10;
             return true;
-        }else if(deltaX == 1 && deltaY == 0){
+        } else if (deltaX == 1 && deltaY == 0) {
             oponente.vida -= 10;
             return true;
-        }else {
+        } else {
             return false;
         }
     }
 
-    boolean andar(Direcao direcao) {
-        switch (direcao){
+    public boolean andar(Direcao direcao) {
+        switch (direcao) {
             case NORTE:
                 y--;
                 break;
