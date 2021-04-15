@@ -20,6 +20,7 @@ public class Jantar {
 
         convidado.comer(sobremesa);
         System.out.println(convidado.getPeso());
+        System.out.printf("%.2f.",convidado.getPeso());
 
     }
 }

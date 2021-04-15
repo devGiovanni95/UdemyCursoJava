@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21d0fefa-e36b-4915-b10b-b6abd88de2ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oo/encapsulamento/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oo/encapsulamento/PessoaTeste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oo/polimorfismo/Arroz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oo/polimorfismo/Feijao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oo/polimorfismo/Jantar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oo/polimorfismo/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oo/polimorfismo/Sorvete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oo/heranca/desafio2/Esportivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oo/polimorfismo/Comida.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oo/polimorfismo/Arroz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oo/polimorfismo/Arroz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oo/polimorfismo/Feijao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oo/polimorfismo/Feijao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oo/polimorfismo/Jantar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oo/polimorfismo/Jantar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oo/polimorfismo/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oo/polimorfismo/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oo/polimorfismo/Sorvete.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oo/polimorfismo/Sorvete.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +22,7 @@
         <option value="Enum" />
         <option value="package-info" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
