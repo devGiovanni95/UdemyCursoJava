@@ -9,6 +9,15 @@ public class Jantar {
         Arroz ingrediente1 = new Arroz(0.2);
         Feijao ingrediente2 = new Feijao(0.1);
 
+        //exemplos de classes abstratas
+
+
+//        Comida ingrediente3 = new Comida(0.3);
+        //como transfomamos a classe Comida em abstrata nao podemos instanciar mais ela podemos fazer o seguinte:
+
+        Comida ingrediente3 = new Arroz(0.3);
+
+
         System.out.println(convidado.getPeso());
 
         convidado.comer(ingrediente1);

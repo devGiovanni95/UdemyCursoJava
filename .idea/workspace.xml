@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21d0fefa-e36b-4915-b10b-b6abd88de2ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oo/heranca/desafio2/Luxo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oo/abstrato/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oo/abstrato/Cachorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oo/abstrato/Mamifero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oo/abstrato/TesteAbstrato.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyCursoJava/oo/heranca/desafio2/Ferrari.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UdemyCursoJava/oo/heranca/desafio2/Ferrari.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyCursoJava/oo/heranca/teste/CarroTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UdemyCursoJava/oo/heranca/teste/CarroTeste.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oo/heranca/desafio2/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oo/heranca/desafio2/Carro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oo/heranca/desafio2/Esportivo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oo/heranca/desafio2/Esportivo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oo/heranca/desafio2/Ferrari.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oo/heranca/desafio2/Ferrari.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oo/heranca/teste/CarroTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oo/heranca/teste/CarroTeste.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oo/heranca/desafio2/Luxo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oo/heranca/desafio2/Luxo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oo/polimorfismo/Comida.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oo/polimorfismo/Comida.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oo/polimorfismo/Jantar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oo/polimorfismo/Jantar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +21,8 @@
       <list>
         <option value="Enum" />
         <option value="package-info" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -77,7 +77,7 @@
       <recent name="classe" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CarroTeste">
+  <component name="RunManager" selected="Application.TesteAbstrato">
     <configuration name="CarroTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oo.heranca.teste.CarroTeste" />
       <module name="UdemyCursoJava" />
@@ -117,19 +117,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Paulo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oo.encapsulamento.casaA.Paulo" />
-      <module name="UdemyCursoJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oo.encapsulamento.casaA.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="PessoaTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oo.encapsulamento.PessoaTeste" />
       <module name="UdemyCursoJava" />
@@ -143,13 +130,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TesteAbstrato" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oo.abstrato.TesteAbstrato" />
+      <module name="UdemyCursoJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oo.abstrato.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TesteAbstrato" />
         <item itemvalue="Application.CarroTeste" />
         <item itemvalue="Application.Jantar" />
         <item itemvalue="Application.PessoaTeste" />
         <item itemvalue="Application.Jogo" />
-        <item itemvalue="Application.Paulo" />
       </list>
     </recent_temporary>
   </component>
