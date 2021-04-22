@@ -6,7 +6,7 @@ public class CalculoTeste3 {
     public static void main(String[] args) {
 
         //Nao faz a conversao pois nao permite a mesma :  int -> Double
-        // double -> int permite
+        // double -> Double permite
         //ex
 //        Double a = 1;
 //        Double b = 1.0;
