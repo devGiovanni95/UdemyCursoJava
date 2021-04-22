@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21d0fefa-e36b-4915-b10b-b6abd88de2ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lambdas/Calculo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas/CalculoTeste1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas/CalculoTeste2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas/Multiplicar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas/Somar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/CalculoTeste3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/Foreach.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyCursoJava/oo/heranca/desafio2/Luxo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UdemyCursoJava/oo/heranca/desafio2/Luxo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyCursoJava/lambdas/Calculo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UdemyCursoJava/lambdas/Calculo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyCursoJava/lambdas/CalculoTeste2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UdemyCursoJava/lambdas/CalculoTeste2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambdas/Calculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdas/Calculo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambdas/CalculoTeste2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdas/CalculoTeste2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,12 +71,13 @@
       <recent name="fudamentos.operadores" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lambdas" />
       <recent name="equals" />
       <recent name="arrays" />
       <recent name="classe" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CalculoTeste2">
+  <component name="RunManager" selected="Application.Foreach">
     <configuration name="CalculoTeste1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lambdas.CalculoTeste1" />
       <module name="UdemyCursoJava" />
@@ -103,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CarroTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oo.heranca.teste.CarroTeste" />
+    <configuration name="CalculoTeste3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdas.CalculoTeste3" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oo.heranca.teste.*" />
+          <option name="PATTERN" value="lambdas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Jantar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oo.polimorfismo.Jantar" />
+    <configuration name="Foreach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdas.Foreach" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oo.polimorfismo.*" />
+          <option name="PATTERN" value="lambdas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Foreach" />
+        <item itemvalue="Application.CalculoTeste3" />
         <item itemvalue="Application.CalculoTeste2" />
         <item itemvalue="Application.CalculoTeste1" />
         <item itemvalue="Application.TesteAbstrato" />
-        <item itemvalue="Application.CarroTeste" />
-        <item itemvalue="Application.Jantar" />
       </list>
     </recent_temporary>
   </component>
