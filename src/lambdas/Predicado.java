@@ -8,6 +8,7 @@ public class Predicado {
 
 //        Predicate<Produto> isCaro = prod -> false;
 //        Predicate<Produto> isCaro = prod -> prod.preco >= 750;
+// isCaro = se é caro
         Predicate<Produto> isCaro = prod -> (prod.preco * (1- prod.desconto)) >= 750;
 
         Produto produto = new Produto("Notebook",3893.89,0.15 );

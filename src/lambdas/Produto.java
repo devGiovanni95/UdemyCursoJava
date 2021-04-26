@@ -13,4 +13,20 @@ public class Produto extends Object{
         this.preco = preco;
         this.desconto = desconto;
     }
+
+@Override
+public String toString() {
+       double precoFinal = preco * (1 - desconto);
+        return  nome + " tem preço de R$" + precoFinal;
+    }
+
+
+    //jeito feito pela IDE
+//    public String toString() {
+//        return "Produto{" +
+//                "nome='" + nome + '\'' +
+//                ", preco=" + preco +
+//                ", desconto=" + desconto +
+//                '}';
+//    }
 }
