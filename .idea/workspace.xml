@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21d0fefa-e36b-4915-b10b-b6abd88de2ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lambdas/Funcao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Desafio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/Fornecedor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/OperadorBinario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/OperadorUnario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/PredicadoComposicao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/Threds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/Trabalho1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/desafio/Desafio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/desafio/DesafioBinaryOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/desafio/Produto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,9 +59,12 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="java.lang" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\ProjetosJava\UdemyCursoJava\src\oo\heranca\desafio2" />
       <recent name="C:\ProjetosJava\UdemyCursoJava\src\oo\heranca" />
@@ -66,19 +79,20 @@
       <recent name="fudamentos.operadores" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lambdas.desafio" />
       <recent name="lambdas" />
       <recent name="equals" />
       <recent name="arrays" />
       <recent name="classe" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Funcao">
-    <configuration name="CalculoTeste3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdas.CalculoTeste3" />
+  <component name="RunManager" selected="Application.Threds">
+    <configuration name="CalculoTeste1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdas.CalculoTeste1" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambdas.*" />
+          <option name="PATTERN" value="lambdas.desafio.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +100,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Consumidor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdas.Consumidor" />
+    <configuration name="Desafio (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Desafio" />
+      <module name="UdemyCursoJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Desafio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdas.desafio.Desafio" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambdas.*" />
+          <option name="PATTERN" value="lambdas.desafio.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Foreach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdas.Foreach" />
+    <configuration name="DesafioBinaryOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdas.desafio.DesafioBinaryOperator" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambdas.*" />
+          <option name="PATTERN" value="lambdas.desafio.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,21 +133,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Funcao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdas.Funcao" />
-      <module name="UdemyCursoJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lambdas.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Predicado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdas.Predicado" />
+    <configuration name="Threds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdas.Threds" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
@@ -140,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Funcao" />
-        <item itemvalue="Application.Consumidor" />
-        <item itemvalue="Application.Predicado" />
-        <item itemvalue="Application.Foreach" />
-        <item itemvalue="Application.CalculoTeste3" />
+        <item itemvalue="Application.Threds" />
+        <item itemvalue="Application.DesafioBinaryOperator" />
+        <item itemvalue="Application.Desafio" />
+        <item itemvalue="Application.CalculoTeste1" />
+        <item itemvalue="Application.Desafio (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -214,7 +222,18 @@
           <line>10</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NumberFormatException" package="java.lang" />
+          <option name="timeStamp" value="15" />
+        </breakpoint>
       </breakpoints>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="java-exception" />
+      </default-breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
