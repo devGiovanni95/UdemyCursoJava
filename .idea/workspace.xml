@@ -2,18 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21d0fefa-e36b-4915-b10b-b6abd88de2ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Desafio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas/Fornecedor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas/OperadorBinario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas/OperadorUnario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas/PredicadoComposicao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas/Threds.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas/Trabalho1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas/desafio/Desafio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas/desafio/DesafioBinaryOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas/desafio/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streams/CriandoStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streams/ImprimindoObjetos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streams/Map.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyCursoJava/Desafio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyCursoJava/Produto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Desafio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Produto.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,23 +82,16 @@
       <recent name="classe" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Threds">
-    <configuration name="CalculoTeste1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdas.CalculoTeste1" />
+  <component name="RunManager" selected="Application.CriandoStreams">
+    <configuration name="CriandoStreams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.CriandoStreams" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambdas.desafio.*" />
+          <option name="PATTERN" value="streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Desafio (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Desafio" />
-      <module name="UdemyCursoJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -133,6 +122,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ImprimindoObjetos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.ImprimindoObjetos" />
+      <module name="UdemyCursoJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Threds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lambdas.Threds" />
       <module name="UdemyCursoJava" />
@@ -148,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CriandoStreams" />
+        <item itemvalue="Application.ImprimindoObjetos" />
         <item itemvalue="Application.Threds" />
         <item itemvalue="Application.DesafioBinaryOperator" />
         <item itemvalue="Application.Desafio" />
-        <item itemvalue="Application.CalculoTeste1" />
-        <item itemvalue="Application.Desafio (1)" />
       </list>
     </recent_temporary>
   </component>
