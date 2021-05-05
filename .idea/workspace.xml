@@ -2,16 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21d0fefa-e36b-4915-b10b-b6abd88de2ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/streams/Aluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streams/DesafioFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streams/DesafioFilterResposta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streams/DesafioMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streams/Filter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streams/ProdutoSite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streams/ProdutoSiteResposta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streams/Utilitarios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streams/Match.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streams/Media.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streams/MediaTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streams/MinMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streams/OutrosMetodosAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streams/Reduce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streams/Reduce2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streams/Reduce3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/streams/Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/streams/Map.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyCursoJava/streams/Aluno.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UdemyCursoJava/streams/Aluno.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyCursoJava/streams/DesafioFilterResposta.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UdemyCursoJava/streams/DesafioFilterResposta.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/streams/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/streams/Aluno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/streams/DesafioFilterResposta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/streams/DesafioFilterResposta.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +60,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -84,9 +87,9 @@
       <recent name="arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DesafioFilterResposta">
-    <configuration name="DesafioFilter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streams.DesafioFilter" />
+  <component name="RunManager" selected="Application.OutrosMetodosAPI">
+    <configuration name="Match" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.Match" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
@@ -98,8 +101,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DesafioFilterResposta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streams.DesafioFilterResposta" />
+    <configuration name="MediaTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.MediaTeste" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
@@ -111,8 +114,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DesafioMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streams.DesafioMap" />
+    <configuration name="MinMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.MinMax" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
@@ -124,8 +127,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Filter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streams.Filter" />
+    <configuration name="OutrosMetodosAPI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.OutrosMetodosAPI" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
@@ -137,8 +140,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Map" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streams.Map" />
+    <configuration name="Reduce3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.Reduce3" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
@@ -152,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DesafioFilterResposta" />
-        <item itemvalue="Application.DesafioFilter" />
-        <item itemvalue="Application.Filter" />
-        <item itemvalue="Application.DesafioMap" />
-        <item itemvalue="Application.Map" />
+        <item itemvalue="Application.OutrosMetodosAPI" />
+        <item itemvalue="Application.MinMax" />
+        <item itemvalue="Application.Match" />
+        <item itemvalue="Application.Reduce3" />
+        <item itemvalue="Application.MediaTeste" />
       </list>
     </recent_temporary>
   </component>

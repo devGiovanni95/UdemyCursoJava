@@ -27,6 +27,7 @@ public class DesafioFilterResposta {
 
         //pipe line de execuçaõ
         produto.stream()
+
                 .filter(superPromocao)
                 .filter(freteGratis)
                 .filter(produtoRelevante)
