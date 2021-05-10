@@ -2,19 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21d0fefa-e36b-4915-b10b-b6abd88de2ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/streams/Match.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streams/Media.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streams/MediaTeste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streams/MinMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streams/OutrosMetodosAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streams/Reduce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streams/Reduce2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streams/Reduce3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/excecao/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/excecao/Basico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/excecao/ChecadaVsNaoChecada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/excecao/Finally.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/excecao/personalizadaA/NumeroForaIntervaloException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/excecao/personalizadaA/StringVaziaException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/excecao/personalizadaA/TesteValidacoes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/excecao/personalizadaA/Validar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/excecao/personalizadaB/NumeroForaIntervaloException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/excecao/personalizadaB/StringVaziaException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/excecao/personalizadaB/TesteValidacoes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/excecao/personalizadaB/Validar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyCursoJava/streams/Aluno.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UdemyCursoJava/streams/Aluno.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyCursoJava/streams/DesafioFilterResposta.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UdemyCursoJava/streams/DesafioFilterResposta.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/streams/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/streams/Aluno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/streams/DesafioFilterResposta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/streams/DesafioFilterResposta.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,8 +25,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="package-info" />
         <option value="Interface" />
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -56,22 +56,22 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/oo/heranca/desafio2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/excecao.personalizadaB" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="java.lang" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\ProjetosJava\UdemyCursoJava\src\excecao.personalizadaB" />
+      <recent name="C:\ProjetosJava\UdemyCursoJava\src\excecao" />
       <recent name="C:\ProjetosJava\UdemyCursoJava\src\oo\heranca\desafio2" />
       <recent name="C:\ProjetosJava\UdemyCursoJava\src\oo\heranca" />
       <recent name="C:\ProjetosJava\UdemyCursoJava\src\classe" />
-      <recent name="C:\ProjetosJava\UdemyCursoJava\src\controle\ExerciciosEstruturaDeControle\Respostas" />
-      <recent name="C:\Users\user\Documents\GitHub\UdemyCursoJava\src\ExemploDeOrganização\pessoa" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="desafioFaculdade" />
@@ -80,20 +80,20 @@
       <recent name="fudamentos.operadores" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="excecao.personalizadaA" />
+      <recent name="excecao" />
       <recent name="streams" />
       <recent name="lambdas.desafio" />
       <recent name="lambdas" />
-      <recent name="equals" />
-      <recent name="arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OutrosMetodosAPI">
-    <configuration name="Match" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streams.Match" />
+  <component name="RunManager" selected="Application.Finally">
+    <configuration name="Basico" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="excecao.Basico" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="streams.*" />
+          <option name="PATTERN" value="excecao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MediaTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streams.MediaTeste" />
+    <configuration name="ChecadaVsNaoChecada" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="excecao.ChecadaVsNaoChecada" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="streams.*" />
+          <option name="PATTERN" value="excecao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streams.MinMax" />
+    <configuration name="Finally" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="excecao.Finally" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="streams.*" />
+          <option name="PATTERN" value="excecao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OutrosMetodosAPI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streams.OutrosMetodosAPI" />
+    <configuration name="TesteValidacoes (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="excecao.personalizadaB.TesteValidacoes" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="streams.*" />
+          <option name="PATTERN" value="excecao.personalizadaB.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Reduce3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streams.Reduce3" />
+    <configuration name="TesteValidacoes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="excecao.personalizadaA.TesteValidacoes" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="streams.*" />
+          <option name="PATTERN" value="excecao.personalizadaA.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OutrosMetodosAPI" />
-        <item itemvalue="Application.MinMax" />
-        <item itemvalue="Application.Match" />
-        <item itemvalue="Application.Reduce3" />
-        <item itemvalue="Application.MediaTeste" />
+        <item itemvalue="Application.Finally" />
+        <item itemvalue="Application.TesteValidacoes (1)" />
+        <item itemvalue="Application.TesteValidacoes" />
+        <item itemvalue="Application.ChecadaVsNaoChecada" />
+        <item itemvalue="Application.Basico" />
       </list>
     </recent_temporary>
   </component>
