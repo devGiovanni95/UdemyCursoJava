@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21d0fefa-e36b-4915-b10b-b6abd88de2ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/excecao/Aluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excecao/Basico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excecao/ChecadaVsNaoChecada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excecao/Finally.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excecao/personalizadaA/NumeroForaIntervaloException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excecao/personalizadaA/StringVaziaException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excecao/personalizadaA/TesteValidacoes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excecao/personalizadaA/Validar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excecao/personalizadaB/NumeroForaIntervaloException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excecao/personalizadaB/StringVaziaException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excecao/personalizadaB/TesteValidacoes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excecao/personalizadaB/Validar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/excecao/Causa.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,9 +76,9 @@
       <recent name="lambdas" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Finally">
-    <configuration name="Basico" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="excecao.Basico" />
+  <component name="RunManager" selected="Application.Causa">
+    <configuration name="Causa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="excecao.Causa" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
@@ -155,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Causa" />
         <item itemvalue="Application.Finally" />
         <item itemvalue="Application.TesteValidacoes (1)" />
         <item itemvalue="Application.TesteValidacoes" />
         <item itemvalue="Application.ChecadaVsNaoChecada" />
-        <item itemvalue="Application.Basico" />
       </list>
     </recent_temporary>
   </component>
