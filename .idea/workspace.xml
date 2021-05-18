@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21d0fefa-e36b-4915-b10b-b6abd88de2ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/excecao/Causa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/Caixa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/CaixaInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/CaixaInt0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/CaixaIntTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/CaixaIntTeste0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/CaixaNumero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/CaixaNumeroTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/CaixaObjeto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/CaixaObjetoTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/CaixaTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/ListaUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/ListaUtilTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +28,7 @@
         <option value="Interface" />
         <option value="package-info" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -45,7 +57,10 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/excecao.personalizadaB" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -62,27 +77,33 @@
       <recent name="C:\ProjetosJava\UdemyCursoJava\src\oo\heranca" />
       <recent name="C:\ProjetosJava\UdemyCursoJava\src\classe" />
     </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="desafioFaculdade" />
     </key>
     <key name="MoveInnerDialog.RECENTS_KEY">
       <recent name="fudamentos.operadores" />
     </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="generics" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="generics" />
       <recent name="excecao.personalizadaA" />
       <recent name="excecao" />
       <recent name="streams" />
       <recent name="lambdas.desafio" />
-      <recent name="lambdas" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Causa">
-    <configuration name="Causa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="excecao.Causa" />
+  <component name="RunManager" selected="Application.ListaUtilTest">
+    <configuration name="CaixaIntTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generics.CaixaIntTeste" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="excecao.*" />
+          <option name="PATTERN" value="generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ChecadaVsNaoChecada" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="excecao.ChecadaVsNaoChecada" />
+    <configuration name="CaixaIntTeste0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generics.CaixaIntTeste0" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="excecao.*" />
+          <option name="PATTERN" value="generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Finally" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="excecao.Finally" />
+    <configuration name="CaixaNumeroTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generics.CaixaNumeroTeste" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="excecao.*" />
+          <option name="PATTERN" value="generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteValidacoes (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="excecao.personalizadaB.TesteValidacoes" />
+    <configuration name="CaixaTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generics.CaixaTeste" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="excecao.personalizadaB.*" />
+          <option name="PATTERN" value="generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteValidacoes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="excecao.personalizadaA.TesteValidacoes" />
+    <configuration name="ListaUtilTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generics.ListaUtilTest" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="excecao.personalizadaA.*" />
+          <option name="PATTERN" value="generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Causa" />
-        <item itemvalue="Application.Finally" />
-        <item itemvalue="Application.TesteValidacoes (1)" />
-        <item itemvalue="Application.TesteValidacoes" />
-        <item itemvalue="Application.ChecadaVsNaoChecada" />
+        <item itemvalue="Application.ListaUtilTest" />
+        <item itemvalue="Application.CaixaNumeroTeste" />
+        <item itemvalue="Application.CaixaIntTeste" />
+        <item itemvalue="Application.CaixaIntTeste0" />
+        <item itemvalue="Application.CaixaTeste" />
       </list>
     </recent_temporary>
   </component>
