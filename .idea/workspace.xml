@@ -2,19 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21d0fefa-e36b-4915-b10b-b6abd88de2ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/generics/ComparableTeste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/Par.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/Pares.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/ParesTeste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/padroes/observer/AniversarioSurpresa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/padroes/observer/EventoChegadaAniversariante.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/padroes/observer/Namorada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/padroes/observer/ObservadorChegadaAniversariante.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/padroes/observer/Porteiro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/swing/Observador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/mysql-connector-java-8.0.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jdbc/ConsultarPessoas1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jdbc/ConsultarPessoas2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jdbc/CriarBanco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jdbc/CriarTabelaPessoas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jdbc/FabricaConexao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jdbc/NovaPessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jdbc/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jdbc/TesteConexao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyCursoJava/generics/ListaUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UdemyCursoJava/generics/ListaUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UdemyCursoJava/generics/ListaUtilTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UdemyCursoJava/generics/ListaUtilTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyCursoJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyCursoJava.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,22 +58,26 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/libs/mysql-connector-java-8.0.25.jar" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="copyright" />
+    <property name="settings.editor.selected.configurable" value="preferences.JavaFX" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="java.lang" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/libs" />
       <recent name="C:\ProjetosJava\UdemyCursoJava\src\excecao.personalizadaB" />
       <recent name="C:\ProjetosJava\UdemyCursoJava\src\excecao" />
       <recent name="C:\ProjetosJava\UdemyCursoJava\src\oo\heranca\desafio2" />
       <recent name="C:\ProjetosJava\UdemyCursoJava\src\oo\heranca" />
-      <recent name="C:\ProjetosJava\UdemyCursoJava\src\classe" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -90,20 +92,20 @@
       <recent name="generics" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="jdbc" />
       <recent name="generics" />
       <recent name="excecao.personalizadaA" />
       <recent name="excecao" />
       <recent name="streams" />
-      <recent name="lambdas.desafio" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Observador">
-    <configuration name="AniversarioSurpresa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="padroes.observer.AniversarioSurpresa" />
+  <component name="RunManager" selected="Application.ConsultarPessoas1">
+    <configuration name="ConsultarPessoas1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jdbc.ConsultarPessoas1" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="padroes.observer.*" />
+          <option name="PATTERN" value="jdbc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ComparableTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generics.ComparableTeste" />
+    <configuration name="CriarBanco" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jdbc.CriarBanco" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="generics.*" />
+          <option name="PATTERN" value="jdbc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListaUtilTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generics.ListaUtilTest" />
+    <configuration name="CriarTabelaPessoas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jdbc.CriarTabelaPessoas" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="generics.*" />
+          <option name="PATTERN" value="jdbc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Observador" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="swing.Observador" />
+    <configuration name="NovaPessoa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jdbc.NovaPessoa" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="swing.*" />
+          <option name="PATTERN" value="jdbc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,26 +152,37 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParesTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generics.ParesTeste" />
+    <configuration name="TesteConexao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jdbc.TesteConexao" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="generics.*" />
+          <option name="PATTERN" value="jdbc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Observador" />
-        <item itemvalue="Application.AniversarioSurpresa" />
-        <item itemvalue="Application.ComparableTeste" />
-        <item itemvalue="Application.ParesTeste" />
-        <item itemvalue="Application.ListaUtilTest" />
+        <item itemvalue="Application.ConsultarPessoas1" />
+        <item itemvalue="Application.NovaPessoa" />
+        <item itemvalue="Application.CriarTabelaPessoas" />
+        <item itemvalue="Application.CriarBanco" />
+        <item itemvalue="Application.TesteConexao" />
       </list>
     </recent_temporary>
   </component>
@@ -198,6 +211,9 @@
       <workItem from="1614293161232" duration="1226000" />
       <workItem from="1614582446904" duration="1430000" />
       <workItem from="1614642816699" duration="589000" />
+      <workItem from="1622416265503" duration="1968000" />
+      <workItem from="1622418804904" duration="598000" />
+      <workItem from="1622420924142" duration="5498000" />
     </task>
     <servers />
   </component>
@@ -238,6 +254,11 @@
           <url>file://$PROJECT_DIR$/src/controle/ExerciciosEstruturaDeControle/Programa4.java</url>
           <line>10</line>
           <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jdbc/NovaPessoa.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NumberFormatException" package="java.lang" />
